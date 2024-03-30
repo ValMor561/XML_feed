@@ -45,7 +45,7 @@ for index, row in df.iterrows():
     url = ET.SubElement(sales_agent, 'url')
     url.text = row['url']
     category = ET.SubElement(sales_agent, 'category')
-    category.text = row['category']
+    category.text = row['agent_category']
     rooms = ET.SubElement(offer, 'rooms')
     rooms.text = row['rooms']
     new_flat = ET.SubElement(offer, 'new-flat')
@@ -86,4 +86,5 @@ xml_dom = xml.dom.minidom.parseString(xml_str)
 pretty_xml_str = xml_dom.toprettyxml(indent="  ", encoding='utf-8')
 with open("realty_feed.xml", "wb") as f:
     f.write(pretty_xml_str)
+print("Данные записаны в файл realty_feed.xml")
 

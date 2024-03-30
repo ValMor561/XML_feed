@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2024-03-30 21-20">
+  <shop>
+    <name>Купить квартиру</name>
+    <company>Группа компаний «ЛИГО»</company>
+    <url>https://ligo.group/</url>
+    <email>realty@sample.s3.yandex.net</email>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Квартира</category>
+      <category id="2" parentId="1">Студия</category>
+      <category id="3" parentId="1">1-комнатная</category>
+      <category id="4" parentId="1">2-комнатная</category>
+      <category id="5" parentId="1">3-комнатная</category>
+      <category id="6" parentId="1">4-к и более</category>
+      <category id="7">Жилой комплекс</category>
+    </categories>
+    <sets>
+      <set id="s1">
+        <name>Квартиры от застройщика в Южно-Сахалинске — группа компаний «ЛИГО»</name>
+        <url>https://ligo.group/projects/</url>
+      </set>
+      <set id="s3482425">
+        <name>Жилой комплекс &quot;ВЕРБА&quot;</name>
+        <url>https://ligo.group/dwellings/zhiloy-kompleks-verba/</url>
+      </set>
+      <set id="s3315022">
+        <name>Жилой квартал &quot;Большая Полянка&quot;</name>
+        <url>https://ligo.group/dwellings/zhiloy-kvartal-bolshaya-polyanka/</url>
+      </set>
+    </sets>
+    <offers>
+      <offer id="344">
+        <name>Жилой комплекс &quot;ВЕРБА&quot;</name>
+        <vendor>Группа компаний «ЛИГО»</vendor>
+        <url>https://ligo.group/dwellings/zhiloy-kompleks-verba/</url>
+        <categoryId>7</categoryId>
+        <price from="true">8700000</price>
+        <currencyId>RUR</currencyId>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s1, s3482425</set-ids>
+        <param name="Число объявлений">46</param>
+        <param name="Адрес">г. Южно-Сахалинск, п/р Ново-Александровск</param>
+        <param name="Широта">47.03298960231</param>
+        <param name="Долгота">142.72214712565</param>
+        <description>ЖК Верба - символ новой жизни. Первая очередь, ключи уже в 2023 году</description>
+        <picture>https://ligo.group/upload/iblock/6b3/kg38rj9swfuga8fczmjgcvvb72x1msp4/Cam_005_Verba.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/c8a/7y445kyou7j2v0egewlkbfg94j0266di/Verba_Winter_Dvor.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/2f1/pyvm9emc04uuxk7dp3xl458pl20pe43d/Verba_Winter_Commerce.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/874/9hyd8o4eev8miufab9ztecf9tz4fh1l4/Cam_Verba_003.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/39d/0rktbb3ry3n8nq2102vfatdp5fo27883/Cam_Verba_004.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/b27/4nv32sjig6jnbe6nrcjqwy3nhl0vmjxy/Cam_Verba_006.jpg</picture>
+      </offer>
+      <offer id="292">
+        <name>Жилой квартал &quot;Большая Полянка&quot;</name>
+        <vendor>Группа компаний «ЛИГО»</vendor>
+        <url>https://ligo.group/dwellings/zhiloy-kvartal-bolshaya-polyanka/</url>
+        <categoryId>7</categoryId>
+        <price from="true">10100000</price>
+        <currencyId>RUR</currencyId>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s1, s3315022</set-ids>
+        <param name="Число объявлений">23</param>
+        <param name="Адрес">г. Южно-Сахалинск, п/р Дальнее</param>
+        <param name="Широта">46.979658927483</param>
+        <param name="Долгота">142.68328890072</param>
+        <description>Первый правильный квартал в Южно-Сахалинске. Старт продаж второй очереди.</description>
+        <picture>https://ligo.group/upload/iblock/38a/bk9cyc42umz6bb4dzkmt7k3ha508884b/Cam_01_5000px-_2_.png</picture>
+        <picture>https://ligo.group/upload/iblock/220/9u4ousnbq3rirwiyyh7xgzpnnc0hlal5/Cam_02_5000px.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/255/xvr4fgsi42czv1gwxrrmsg7g2gi76ghc/Cam_03_5000px.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/645/4-_3_.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/1a2/3-_3_.jpg</picture>
+        <picture>https://ligo.group/upload/iblock/5c9/IMG_0176-_1_.JPG</picture>
+        <picture>https://ligo.group/upload/iblock/322/IMG_0177-_1_.JPG</picture>
+        <picture>https://ligo.group/upload/iblock/39a/IMG_0185.JPG</picture>
+        <picture>https://ligo.group/upload/iblock/22d/IMG_0184.JPG</picture>
+        <picture>https://ligo.group/upload/iblock/446/1-_4_.jpg</picture>
+      </offer>
+      <offer id="2695">
+        <name>2-я квартира, 62.76 м²</name>
+        <url>https://ligo.group/flats/2695/</url>
+        <categoryId>4</categoryId>
+        <price>9900000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/39d/planirovka_y1p1kv1_meb_62.76.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">1</param>
+        <param name="Площадь">62.76</param>
+        <param name="Год постройки">2023</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул им Б.П.Полевого 3</param>
+      </offer>
+      <offer id="2702">
+        <name>2-я квартира, 63.1 м²</name>
+        <url>https://ligo.group/flats/2702/</url>
+        <categoryId>4</categoryId>
+        <price>9900000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/ee2/planirovka_y3p2kv24_meb_63.1.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">63.1</param>
+        <param name="Год постройки">2023</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул им Б.П.Полевого 3</param>
+      </offer>
+      <offer id="2705">
+        <name>2-я квартира, 62.86 м²</name>
+        <url>https://ligo.group/flats/2705/</url>
+        <categoryId>4</categoryId>
+        <price>9972000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/219/planirovka_y1p3kv32_meb_62.86.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">1</param>
+        <param name="Площадь">62.86</param>
+        <param name="Год постройки">2023</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул им Б.П.Полевого 3</param>
+      </offer>
+      <offer id="2726">
+        <name>2-я квартира, 53.88 м²</name>
+        <url>https://ligo.group/flats/2726/</url>
+        <categoryId>4</categoryId>
+        <price>9500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/acf/planirovka_y4p3kv42_meb_53.88.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">53.88</param>
+        <param name="Год постройки">2023</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул им Б.П.Полевого 3к1</param>
+      </offer>
+      <offer id="2756">
+        <name>2-я квартира, 63.67 м²</name>
+        <url>https://ligo.group/flats/2756/</url>
+        <categoryId>4</categoryId>
+        <price>10300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/4a9/planirovka_p2y56789kv79_84_89_94_99_meb_63.67.png</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">7</param>
+        <param name="Площадь">63.67</param>
+        <param name="Год постройки">2023</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/2</param>
+      </offer>
+      <offer id="2762">
+        <name>2-я квартира, 59.87 м²</name>
+        <url>https://ligo.group/flats/2762/</url>
+        <categoryId>4</categoryId>
+        <price>9800000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/9e8/planirovka_p2y234kv61_67_73_meb_59.87.png</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">59.87</param>
+        <param name="Год постройки">2023</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/2</param>
+      </offer>
+      <offer id="2795">
+        <name>3-я квартира, 59.51 м²</name>
+        <url>https://ligo.group/flats/2795/</url>
+        <categoryId>5</categoryId>
+        <price>9400000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/656/skwk3izouqs5di2ka6zimfc58f2pbt71/planirovka_type_7_1_59.51.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">59.51</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2796">
+        <name>1-я квартира, 36.43 м²</name>
+        <url>https://ligo.group/flats/2796/</url>
+        <categoryId>3</categoryId>
+        <price>7700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/e03/ybib01bbg6t4pw91m0auy05q6ikxrohm/planirovka_type_1_1_s_oknom_36.59.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">36.43</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2801">
+        <name>3-я квартира, 59.74 м²</name>
+        <url>https://ligo.group/flats/2801/</url>
+        <categoryId>5</categoryId>
+        <price>9300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/656/skwk3izouqs5di2ka6zimfc58f2pbt71/planirovka_type_7_1_59.51.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">59.74</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2803">
+        <name>1-я квартира, 36.74 м²</name>
+        <url>https://ligo.group/flats/2803/</url>
+        <categoryId>3</categoryId>
+        <price>7700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fb6/0e6xhlrjnis2tqfcr6j9f9pev2yt2mlh/planirovka_type_1_bez_okna_36.74.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">36.74</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2804">
+        <name>1-я квартира, 47.53 м²</name>
+        <url>https://ligo.group/flats/2804/</url>
+        <categoryId>3</categoryId>
+        <price>8500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/d0d/1l5zi0zi6tsuf7adbjzntdpr1o6dccvb/planirovka_type_8_47.79.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">47.53</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2813">
+        <name>1-я квартира, 36.42 м²</name>
+        <url>https://ligo.group/flats/2813/</url>
+        <categoryId>3</categoryId>
+        <price>7700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fb6/0e6xhlrjnis2tqfcr6j9f9pev2yt2mlh/planirovka_type_1_bez_okna_36.74.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">36.42</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2814">
+        <name>3-я квартира, 59.53 м²</name>
+        <url>https://ligo.group/flats/2814/</url>
+        <categoryId>5</categoryId>
+        <price>9300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/b8d/u6r1tvx32iy2qbqecrj5f39yy1pfjsbz/planirovka_type_7_bez_okna_59.53.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">59.53</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2816">
+        <name>1-я квартира, 36.41 м²</name>
+        <url>https://ligo.group/flats/2816/</url>
+        <categoryId>3</categoryId>
+        <price>7700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/81e/64l76pu19y31l0wl0p0wi3i5q8bkzrtv/planirovka_type_4_s_balkonom_36.49.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">36.41</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2820">
+        <name>3-я квартира, 59.64 м²</name>
+        <url>https://ligo.group/flats/2820/</url>
+        <categoryId>5</categoryId>
+        <price>9400000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/b8d/u6r1tvx32iy2qbqecrj5f39yy1pfjsbz/planirovka_type_7_bez_okna_59.53.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">59.64</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2828">
+        <name>1-я квартира, 36.5 м²</name>
+        <url>https://ligo.group/flats/2828/</url>
+        <categoryId>3</categoryId>
+        <price>7700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/1b4/7izpe0qbv9u3vz4mxc0jrq0wh29ticd6/planirovka_type_1_36.56.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">36.5</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2832">
+        <name>1-я квартира, 36.39 м²</name>
+        <url>https://ligo.group/flats/2832/</url>
+        <categoryId>3</categoryId>
+        <price>7700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/81e/64l76pu19y31l0wl0p0wi3i5q8bkzrtv/planirovka_type_4_s_balkonom_36.49.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">36.39</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2833">
+        <name>1-я квартира, 42.15 м²</name>
+        <url>https://ligo.group/flats/2833/</url>
+        <categoryId>3</categoryId>
+        <price>8000000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/d35/li866rxphtdisn4mflt4u4lyqudhtbzx/planirovka_type_5_42.15.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">42.15</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2836">
+        <name>2-я квартира, 62.75 м²</name>
+        <url>https://ligo.group/flats/2836/</url>
+        <categoryId>4</categoryId>
+        <price>9300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/53c/128aixgxvwoycsaipa1tpepeis3cp6z2/planirovka_type_3_62.79.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">1</param>
+        <param name="Площадь">62.75</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул им Б.П.Полевого 1к1</param>
+      </offer>
+      <offer id="2838">
+        <name>3-я квартира, 59.73 м²</name>
+        <url>https://ligo.group/flats/2838/</url>
+        <categoryId>5</categoryId>
+        <price>9300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/cdf/4ewz94hijwy86h2d831acs6tv7khsm4h/planirovka_type_7_s_oknom_59.64.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">59.73</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул им Б.П.Полевого 1</param>
+      </offer>
+      <offer id="2843">
+        <name>3-я квартира, 59.64 м²</name>
+        <url>https://ligo.group/flats/2843/</url>
+        <categoryId>5</categoryId>
+        <price>9400000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/cdf/4ewz94hijwy86h2d831acs6tv7khsm4h/planirovka_type_7_s_oknom_59.64.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">59.64</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул им Б.П.Полевого 1</param>
+      </offer>
+      <offer id="2847">
+        <name>3-я квартира, 59.53 м²</name>
+        <url>https://ligo.group/flats/2847/</url>
+        <categoryId>5</categoryId>
+        <price>9300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/cdf/4ewz94hijwy86h2d831acs6tv7khsm4h/planirovka_type_7_s_oknom_59.64.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">59.53</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул им Б.П.Полевого 1</param>
+      </offer>
+      <offer id="2858">
+        <name>3-я квартира, 59.5 м²</name>
+        <url>https://ligo.group/flats/2858/</url>
+        <categoryId>5</categoryId>
+        <price>9300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/b8d/u6r1tvx32iy2qbqecrj5f39yy1pfjsbz/planirovka_type_7_bez_okna_59.53.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">59.5</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул им Б.П.Полевого 1</param>
+      </offer>
+      <offer id="2859">
+        <name>2-я квартира, 63.16 м²</name>
+        <url>https://ligo.group/flats/2859/</url>
+        <categoryId>4</categoryId>
+        <price>9500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/ed8/yrzmcr47724hpk2pnda3ufh0s0n1a9t7/planirovka_type_9_62.81.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">1</param>
+        <param name="Площадь">63.16</param>
+        <param name="Год постройки">2024</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул им Б.П.Полевого 1</param>
+      </offer>
+      <offer id="2895">
+        <name>2-я квартира, 54.04 м²</name>
+        <url>https://ligo.group/flats/2895/</url>
+        <categoryId>4</categoryId>
+        <price>9500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/e8f/planirovka_y4p1kv14_meb_54.04.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3315022</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">54.04</param>
+        <param name="Год постройки">2023</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул им Б.П.Полевого 3к.2</param>
+      </offer>
+      <offer id="3016">
+        <name>2-я квартира, 54.28 м²</name>
+        <url>https://ligo.group/flats/3016/</url>
+        <categoryId>4</categoryId>
+        <price>9600000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/682/gyhc571ale5bsw7jyafprry9c9gs7kfg/planirovka_type_4_54.28.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">6</param>
+        <param name="Площадь">54.28</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3017">
+        <name>2-я квартира, 54.28 м²</name>
+        <url>https://ligo.group/flats/3017/</url>
+        <categoryId>4</categoryId>
+        <price>9700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/682/gyhc571ale5bsw7jyafprry9c9gs7kfg/planirovka_type_4_54.28.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">7</param>
+        <param name="Площадь">54.28</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3039">
+        <name>2-я квартира, 50.36 м²</name>
+        <url>https://ligo.group/flats/3039/</url>
+        <categoryId>4</categoryId>
+        <price>8390000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/2df/yebdwstxbu4b9uw0ekizpy3epea1gvz0/planirovka_type_7_49.7.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">50.36</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3040">
+        <name>2-я квартира, 49.8 м²</name>
+        <url>https://ligo.group/flats/3040/</url>
+        <categoryId>4</categoryId>
+        <price>8370000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/2df/yebdwstxbu4b9uw0ekizpy3epea1gvz0/planirovka_type_7_49.7.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">49.8</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3041">
+        <name>2-я квартира, 49.8 м²</name>
+        <url>https://ligo.group/flats/3041/</url>
+        <categoryId>4</categoryId>
+        <price>8370000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/2df/yebdwstxbu4b9uw0ekizpy3epea1gvz0/planirovka_type_7_49.7.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">49.8</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3057">
+        <name>2-я квартира, 49.8 м²</name>
+        <url>https://ligo.group/flats/3057/</url>
+        <categoryId>4</categoryId>
+        <price>9400000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/2df/yebdwstxbu4b9uw0ekizpy3epea1gvz0/planirovka_type_7_49.7.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">49.8</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3060">
+        <name>2-я квартира, 49.8 м²</name>
+        <url>https://ligo.group/flats/3060/</url>
+        <categoryId>4</categoryId>
+        <price>9500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/2df/yebdwstxbu4b9uw0ekizpy3epea1gvz0/planirovka_type_7_49.7.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">6</param>
+        <param name="Площадь">49.8</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3073">
+        <name>2-я квартира, 49.63 м²</name>
+        <url>https://ligo.group/flats/3073/</url>
+        <categoryId>4</categoryId>
+        <price>9350000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/553/p19b3eikc5kkfiooulci9s7tz25b8gj1/planirovka_type_1_49.35.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">1</param>
+        <param name="Площадь">49.63</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3074">
+        <name>2-я квартира, 49.35 м²</name>
+        <url>https://ligo.group/flats/3074/</url>
+        <categoryId>4</categoryId>
+        <price>8050000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/553/p19b3eikc5kkfiooulci9s7tz25b8gj1/planirovka_type_1_49.35.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">49.35</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3091">
+        <name>2-я квартира, 49.35 м²</name>
+        <url>https://ligo.group/flats/3091/</url>
+        <categoryId>4</categoryId>
+        <price>9400000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/553/p19b3eikc5kkfiooulci9s7tz25b8gj1/planirovka_type_1_49.35.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">49.35</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3095">
+        <name>2-я квартира, 49.35 м²</name>
+        <url>https://ligo.group/flats/3095/</url>
+        <categoryId>4</categoryId>
+        <price>9500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/553/p19b3eikc5kkfiooulci9s7tz25b8gj1/planirovka_type_1_49.35.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">7</param>
+        <param name="Площадь">49.35</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3107">
+        <name>2-я квартира, 44 м²</name>
+        <url>https://ligo.group/flats/3107/</url>
+        <categoryId>4</categoryId>
+        <price>8600000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/044/3965xxc4ymmf74ghhab145ilodkz2y43/planirovka_type_2_43.93.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3108">
+        <name>2-я квартира, 44 м²</name>
+        <url>https://ligo.group/flats/3108/</url>
+        <categoryId>4</categoryId>
+        <price>7700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/23f/z39ziw3mlfg8iqj7vrn7lhevg1tqtusm/planirovka_type_3_43.93.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3110">
+        <name>2-я квартира, 44 м²</name>
+        <url>https://ligo.group/flats/3110/</url>
+        <categoryId>4</categoryId>
+        <price>8000000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/23f/z39ziw3mlfg8iqj7vrn7lhevg1tqtusm/planirovka_type_3_43.93.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3112">
+        <name>2-я квартира, 44 м²</name>
+        <url>https://ligo.group/flats/3112/</url>
+        <categoryId>4</categoryId>
+        <price>8600000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/23f/z39ziw3mlfg8iqj7vrn7lhevg1tqtusm/planirovka_type_3_43.93.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3114">
+        <name>2-я квартира, 44 м²</name>
+        <url>https://ligo.group/flats/3114/</url>
+        <categoryId>4</categoryId>
+        <price>8600000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/23f/z39ziw3mlfg8iqj7vrn7lhevg1tqtusm/planirovka_type_3_43.93.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">5</param>
+        <param name="Площадь">44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3117">
+        <name>2-я квартира, 44 м²</name>
+        <url>https://ligo.group/flats/3117/</url>
+        <categoryId>4</categoryId>
+        <price>8700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/044/3965xxc4ymmf74ghhab145ilodkz2y43/planirovka_type_2_43.93.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">7</param>
+        <param name="Площадь">44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3122">
+        <name>2-я квартира, 44 м²</name>
+        <url>https://ligo.group/flats/3122/</url>
+        <categoryId>4</categoryId>
+        <price>8700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/23f/z39ziw3mlfg8iqj7vrn7lhevg1tqtusm/planirovka_type_3_43.93.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">9</param>
+        <param name="Площадь">44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3129">
+        <name>1-я квартира, 40.74 м²</name>
+        <url>https://ligo.group/flats/3129/</url>
+        <categoryId>3</categoryId>
+        <price>7500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/ab5/ubjdry6tz2n7wqgi5vlw25h3h1a7fc3e/planirovka_type_16_40.44.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">40.74</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3130">
+        <name>1-я квартира, 40.74 м²</name>
+        <url>https://ligo.group/flats/3130/</url>
+        <categoryId>3</categoryId>
+        <price>7500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/b03/0kb4wqg3asu652rpq74byiemx58mkzr0/planirovka_type_17_40.44.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">40.74</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3137">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3137/</url>
+        <categoryId>3</categoryId>
+        <price>7500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/ab5/ubjdry6tz2n7wqgi5vlw25h3h1a7fc3e/planirovka_type_16_40.44.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3138">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3138/</url>
+        <categoryId>3</categoryId>
+        <price>7500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/b03/0kb4wqg3asu652rpq74byiemx58mkzr0/planirovka_type_17_40.44.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3139">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3139/</url>
+        <categoryId>3</categoryId>
+        <price>7530000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/5ee/wp1x3gbpfg5kfpa25gxz1ihng39ecghl/planirovka_type_8_40.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3140">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3140/</url>
+        <categoryId>3</categoryId>
+        <price>7500000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/b29/uyohg1679zdb2zqih39ry3gy148owuu6/planirovka_type_9_40.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3169">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3169/</url>
+        <categoryId>3</categoryId>
+        <price>8525000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/5ee/wp1x3gbpfg5kfpa25gxz1ihng39ecghl/planirovka_type_8_40.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3171">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3171/</url>
+        <categoryId>3</categoryId>
+        <price>8550000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/5ee/wp1x3gbpfg5kfpa25gxz1ihng39ecghl/planirovka_type_8_40.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3172">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3172/</url>
+        <categoryId>3</categoryId>
+        <price>8550000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/b29/uyohg1679zdb2zqih39ry3gy148owuu6/planirovka_type_9_40.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3176">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3176/</url>
+        <categoryId>3</categoryId>
+        <price>8550000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/b29/uyohg1679zdb2zqih39ry3gy148owuu6/planirovka_type_9_40.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">5</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3185">
+        <name>1-я квартира, 40.44 м²</name>
+        <url>https://ligo.group/flats/3185/</url>
+        <categoryId>3</categoryId>
+        <price>8600000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/5ee/wp1x3gbpfg5kfpa25gxz1ihng39ecghl/planirovka_type_8_40.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">7</param>
+        <param name="Площадь">40.44</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3228">
+        <name>1-я квартира, 29.73 м²</name>
+        <url>https://ligo.group/flats/3228/</url>
+        <categoryId>3</categoryId>
+        <price>6300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/732/6er6nhuhwhdcoen97yxuof7lupwa3yew/planirovka_type_5_29.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">29.73</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3241">
+        <name>1-я квартира, 29.37 м²</name>
+        <url>https://ligo.group/flats/3241/</url>
+        <categoryId>3</categoryId>
+        <price>6300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/732/6er6nhuhwhdcoen97yxuof7lupwa3yew/planirovka_type_5_29.37.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">29.37</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3251">
+        <name>1-я квартира, 27.13 м²</name>
+        <url>https://ligo.group/flats/3251/</url>
+        <categoryId>3</categoryId>
+        <price>6000000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fe1/411zamf4ni7soxmr3ui1tmb0jv539p3b/planirovka_type_6_27.13.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">27.13</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3252">
+        <name>1-я квартира, 27.13 м²</name>
+        <url>https://ligo.group/flats/3252/</url>
+        <categoryId>3</categoryId>
+        <price>6050000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fe1/411zamf4ni7soxmr3ui1tmb0jv539p3b/planirovka_type_6_27.13.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">27.13</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3256">
+        <name>1-я квартира, 27.13 м²</name>
+        <url>https://ligo.group/flats/3256/</url>
+        <categoryId>3</categoryId>
+        <price>6150000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fe1/411zamf4ni7soxmr3ui1tmb0jv539p3b/planirovka_type_6_27.13.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">8</param>
+        <param name="Площадь">27.13</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3273">
+        <name>1-я квартира, 27.13 м²</name>
+        <url>https://ligo.group/flats/3273/</url>
+        <categoryId>3</categoryId>
+        <price>6700000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fe1/411zamf4ni7soxmr3ui1tmb0jv539p3b/planirovka_type_6_27.13.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">27.13</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3274">
+        <name>1-я квартира, 27.13 м²</name>
+        <url>https://ligo.group/flats/3274/</url>
+        <categoryId>3</categoryId>
+        <price>6600000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fe1/411zamf4ni7soxmr3ui1tmb0jv539p3b/planirovka_type_6_27.13.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">27.13</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3277">
+        <name>1-я квартира, 27.13 м²</name>
+        <url>https://ligo.group/flats/3277/</url>
+        <categoryId>3</categoryId>
+        <price>6800000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fe1/411zamf4ni7soxmr3ui1tmb0jv539p3b/planirovka_type_6_27.13.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">6</param>
+        <param name="Площадь">27.13</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3280">
+        <name>1-я квартира, 27.13 м²</name>
+        <url>https://ligo.group/flats/3280/</url>
+        <categoryId>3</categoryId>
+        <price>6850000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/fe1/411zamf4ni7soxmr3ui1tmb0jv539p3b/planirovka_type_6_27.13.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">9</param>
+        <param name="Площадь">27.13</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">1</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3285">
+        <name>2-я квартира, 54.84 м²</name>
+        <url>https://ligo.group/flats/3285/</url>
+        <categoryId>4</categoryId>
+        <price>8450000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/682/gyhc571ale5bsw7jyafprry9c9gs7kfg/planirovka_type_4_54.28.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">2</param>
+        <param name="Площадь">54.84</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3295">
+        <name>2-я квартира, 54.28 м²</name>
+        <url>https://ligo.group/flats/3295/</url>
+        <categoryId>4</categoryId>
+        <price>8450000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/682/gyhc571ale5bsw7jyafprry9c9gs7kfg/planirovka_type_4_54.28.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">54.28</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3310">
+        <name>3-я квартира, 65.87 м²</name>
+        <url>https://ligo.group/flats/3310/</url>
+        <categoryId>5</categoryId>
+        <price>10850000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/c47/0zww1x9b83cf0c5a93mrtynh5hzf0i1p/planirovka_type_10_65.82.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">3</param>
+        <param name="Площадь">65.87</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3313">
+        <name>3-я квартира, 65.87 м²</name>
+        <url>https://ligo.group/flats/3313/</url>
+        <categoryId>5</categoryId>
+        <price>10900000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/c47/0zww1x9b83cf0c5a93mrtynh5hzf0i1p/planirovka_type_10_65.82.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">6</param>
+        <param name="Площадь">65.87</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3327">
+        <name>3-я квартира, 65.87 м²</name>
+        <url>https://ligo.group/flats/3327/</url>
+        <categoryId>5</categoryId>
+        <price>9300000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/c47/0zww1x9b83cf0c5a93mrtynh5hzf0i1p/planirovka_type_10_65.82.jpg</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">4</param>
+        <param name="Площадь">65.87</param>
+        <param name="Год постройки">2025</param>
+        <param name="Число комнат">3</param>
+        <param name="Адрес">ул Науки 1/1</param>
+      </offer>
+      <offer id="3410">
+        <name>2-я квартира, 66.76 м²</name>
+        <url>https://ligo.group/flats/3410/</url>
+        <categoryId>4</categoryId>
+        <price>10600000</price>
+        <currencyId>RUR</currencyId>
+        <picture>https://ligo.group/upload/preview_picture_plan/0dd/planirovka_p2y56789kv80_85_90_95_100_meb_66.76.png</picture>
+        <param name="Конверсия">1</param>
+        <param name="Тип предложения">продажа</param>
+        <set-ids>s3482425</set-ids>
+        <param name="Этаж">5</param>
+        <param name="Площадь">66.76</param>
+        <param name="Год постройки">2023</param>
+        <param name="Число комнат">2</param>
+        <param name="Адрес">ул Науки 1/2</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

@@ -55,7 +55,7 @@ df['price_currency'] = 'RUR'
 df['phone'] = '+78005000941'
 df['organization'] = 'Группа компаний "ЛИГО"'
 df['url'] = 'https://ligo.group/'
-df['category'] = 'developer'
+df['agent_category'] = 'developer'
 df['rooms'] = df['Число комнат']
 df['new-flat'] = 1
 df[['ready-quarter', 'built-year']] = df['Дата ввода'].str.split(' кв. ', expand=True)
@@ -65,6 +65,8 @@ df['floor'] = df['Этаж']
 
 
     
-df.drop(columns=['Картинка для анонса', 'ID', 'Дата сдачи', 'Площадь', 'Полное название ЖК', 'Цена', 'Число комнат', 'Дата ввода', 'Этаж'], inplace=True)
-df = df.dropna(subset=['image', 'yandex-building-id', 'rooms'])
+df.drop(columns=['Картинка для анонса', 'ID', 'Дата сдачи', 'Площадь', 'Жилая площадь', 'Полное название ЖК', 'Цена', 'Число комнат', 'Дата ввода', 'Этаж'], inplace=True)
+df = df.dropna(subset=['image', 'rooms'])
 df.to_excel('transformed_data.xlsx', index=False)
+
+print('Данные сохранены в transformed_data.xlsx')
